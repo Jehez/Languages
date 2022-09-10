@@ -1,4 +1,3 @@
-# Text-to-speech
-Program to convert text into an mp3 file (speech) in multiple languages using the gTTS package.
+These programs are dedicated to language related topics, such as ciphers/codes and text-to-speech
 
-NOTE - You need the gTTS and playsound packages and python to run this locally
+NOTE - You need python (and some packages installed) to run the code locally
